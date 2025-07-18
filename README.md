@@ -20,6 +20,6 @@ description: >-
 
 <a href="https://gitbook.com/" class="button primary">GitBook Website</a>
 
-\<a href=page-1.md" class="button primary">GitBook
+<a href="page-1.md" class="button primary">GitBook
 
 <a href="page-1.md" class="button primary">New button</a>
