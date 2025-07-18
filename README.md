@@ -19,3 +19,6 @@ description: >-
 # Page
 
 <a href="https://gitbook.com/" class="button primary">GitBook Website</a>
+
+
+<a href="https://gitbook.com/" class="button primary">GitBook</a>
