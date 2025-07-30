@@ -26,8 +26,3 @@ description: >-
 
 
 
-{% embed url="https://airtable.com/embed/appUsNn6CVszlBjfw/shroLjZ7pigt4oV7j/tblUI4OiE28Soe8DR" %}
-
-
-
-{% embed url="https://airtable.com/embed/appfAAiVrIxJ7vUPx/shrAwl0VbjqjuJWmi" %}
