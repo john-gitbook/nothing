@@ -24,15 +24,10 @@ description: >-
 
 <a href="page-1.md" class="button primary">New button</a>
 
-
-
 [This is a link](mailto:support@gitbook.com) to our support email address
-
-
 
 🚗;
 
 :dog:
 
-
-Here is an inline image: ![](<.gitbook/assets/GitBook - Dark.jpg>)
+Here is an inline image: <img src=".gitbook/assets/GitBook - Dark.jpg" alt="Dark version of GitBook&#x27;s logo" data-size="line">
