@@ -32,6 +32,7 @@ description: >-
 
 :house:&#x20;
 
+:house:&#x20;
 
 
 Here is an inline image: ![](<.gitbook/assets/GitBook - Dark.jpg>)
