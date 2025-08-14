@@ -26,3 +26,4 @@ description: >-
 
 
 
+[This is a link](mailto:support@gitbook.com) to our support email address
