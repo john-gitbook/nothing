@@ -27,3 +27,11 @@ description: >-
 
 
 [This is a link](mailto:support@gitbook.com) to our support email address
+
+
+
+:house:&#x20;
+
+
+
+Here is an inline image: ![](<.gitbook/assets/GitBook - Dark.jpg>)
