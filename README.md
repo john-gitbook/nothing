@@ -31,3 +31,7 @@ description: >-
 :dog:
 
 Here is an inline image: <img src=".gitbook/assets/GitBook - Dark.jpg" alt="Dark version of GitBook&#x27;s logo" data-size="line">
+
+
+
+<code class="expression">space.vars.country</code>
